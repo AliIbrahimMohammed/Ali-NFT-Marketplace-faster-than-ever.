@@ -58,23 +58,23 @@ const Home: NextPage = () => {
                  See you on <b>my Linkedin</b> and you don't want to go to Market Place.
                  <Link
                   className={styles.link}
-                  href="https://www.linkedin.com/in/ali-ibrahim-mohammed-a18389239/"
+                  href="https://github.com/AliIbrahimMohammed"
                   target="_blank"
                 >
-                  <b> My Linkedin</b>
+                  <b> My GitHub</b>
                 </Link>
               </p>
 
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
-                  Get Started Marketplace
+                  Go to Marketplace
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/AliIbrahimMohammed"
+                  href="https://www.linkedin.com/in/ali-ibrahim-mohammed-a18389239/"
                   target="_blank"
                 >
-                  GitHub
+                  LinkedIn
                 </Link>
               </div>
             </div>
