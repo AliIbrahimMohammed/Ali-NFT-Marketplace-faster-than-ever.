@@ -1,4 +1,4 @@
-#NFT Marketplace
+##NFT Marketplace
 This is a decentralized marketplace for buying, selling, and trading non-fungible tokens (NFTs). The marketplace is built on blockchain technology, making it secure and transparent. Users can create their own NFTs and list them for sale on the marketplace, or they can browse and purchase NFTs created by other users.
 
 #Features
